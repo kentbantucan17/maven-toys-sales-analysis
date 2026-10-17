@@ -158,6 +158,7 @@ The findings highlight why revenue should not be evaluated in isolation and demo
 
 Project File
 
-[Download the Power BI Dashboard (.pbix)]([sha256:1ea15487ee888477f4f77fca50ffb55bc273190bbb7723808bfa699fcddeada4](https://github.com/kentbantucan17/maven-toys-sales-analysis/releases/download/v1.0.0/MavenToysAnalysis.pbix))
+- [Download the Power BI Dashboard (.pbix)]([https://github.com/kentbantucan17/maven-toys-sales-analysis/releases/download/v1.0.0/MavenToysAnalysis.pbix](https://github.com/kentbantucan17/maven-toys-sales-analysis/releases/download/v1.0.0/MavenToysAnalysis.pbix))
+- [View the Dataset Source](https://mavenanalytics.io/data-playground/mexico-toy-sales)
 
 
