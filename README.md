@@ -2,10 +2,21 @@ Maven Toys Sales Performance Analysis
 
 An interactive Power BI project analyzing sales trends, product performance, store performance, and profitability using Maven Toys retail sales data.
 
+Dashboard Preview
+
+Sales Overview
+![Sales Overview](images/sales-overview.png)
+
+Product Analysis
+![Product Analysis](images/product-analysis.png)
+
+Store Analysis
+![Store Analysis](images/store-analysis.png)
+
 Dashboard pages:
 - Sales Overview
-- Product Performance
-- Store Performance
+- Product Analysis
+- Store Analysis
 
  1. Project Overview
 
