@@ -13,10 +13,14 @@ Product Analysis
 Store Analysis
 ![Store Analysis](images/store-analysis.png)
 
+Key Insights
+![Key Insights](images/key-insights.png)
+
 Dashboard pages:
 - Sales Overview
 - Product Analysis
 - Store Analysis
+- Key Insights
 
  1. Project Overview
 
