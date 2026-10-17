@@ -156,9 +156,8 @@ Through data preparation, data modeling, KPI development, and business analysis,
 
 The findings highlight why revenue should not be evaluated in isolation and demonstrate how dashboard analysis can lead to further business questions and investigations.
 
-Project File
+## Project Files
 
-- [Download the Power BI Dashboard (.pbix)]([https://github.com/kentbantucan17/maven-toys-sales-analysis/releases/download/v1.0.0/MavenToysAnalysis.pbix](https://github.com/kentbantucan17/maven-toys-sales-analysis/releases/download/v1.0.0/MavenToysAnalysis.pbix))
+- [Download the Power BI Dashboard (.pbix)](https://github.com/kentbantucan17/maven-toys-sales-analysis/releases/download/v1.0.0/MavenToysAnalysis.pbix)
 - [View the Dataset Source](https://mavenanalytics.io/data-playground/mexico-toy-sales)
-
 
