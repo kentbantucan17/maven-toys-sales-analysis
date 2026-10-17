@@ -155,3 +155,9 @@ This project demonstrates the use of Power BI, Power Query, and DAX to transform
 Through data preparation, data modeling, KPI development, and business analysis, the project examines sales trends, product performance, store performance, and profitability.
 
 The findings highlight why revenue should not be evaluated in isolation and demonstrate how dashboard analysis can lead to further business questions and investigations.
+
+Project File
+
+[Download the Power BI Dashboard (.pbix)]([sha256:1ea15487ee888477f4f77fca50ffb55bc273190bbb7723808bfa699fcddeada4](https://github.com/kentbantucan17/maven-toys-sales-analysis/releases/download/v1.0.0/MavenToysAnalysis.pbix))
+
+
